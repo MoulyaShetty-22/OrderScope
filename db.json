@@ -1,0 +1,15 @@
+{
+  "orders": [
+    { "id": 1, "name": "Keyboard", "customer": "Alice", "price": 199 },
+    { "id": 2, "name": "Mouse", "customer": "Bob", "price": 150 },
+    { "id": 3, "name": "Monitor", "customer": "Charlie", "price": 899 },
+    { "id": 4, "name": "Pen Drive", "customer": "Alice", "price": 299 },
+    { "id": 5, "name": "Laptop", "customer": "David", "price": 45000 },
+    { "id": 6, "name": "Headphones", "customer": "Eve", "price": 999 },
+    { "id": 7, "name": "Webcam", "customer": "Bob", "price": 699 },
+    { "id": 8, "name": "Speakers", "customer": "Charlie", "price": 1199 },
+    { "id": 9, "name": "Charger", "customer": "Alice", "price": 499 },
+    { "id": 10, "name": "Desk", "customer": "Eve", "price": 1999 },
+    { "id": 11, "name": "Chair", "customer": "David", "price": 3499 }
+  ]
+}
